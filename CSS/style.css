@@ -199,20 +199,20 @@ p {
 
 hr {
     background-color:#365067;
-    width: 0px;
+    /* width: 0px; */
 
 }
 .titlehrtop{
     margin-top: 20px;
     margin-bottom: 0;
     background-color: #FFFFFF;
-    border-top: 3px solid white;
+    border-top: 2px solid white;
 }
 .titlehrbottom{
     margin-top: 0;
     margin-bottom: 20px;
     background-color: #FFFFFF;
-    border-top: 3px solid white;
+    border-top: 2px solid white;
 }
 
 .flexBox {
@@ -258,11 +258,18 @@ hr {
 
 .card-body {
     background-color: #fefefe;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     justify-content: center;
 }
-
+.card-bodyS{
+    text-align: center;
+    color: green;
+}
+.card-bodyW{
+    text-align: center;
+    color: red;
+}
 .card-text {
     color: #0f010b;
 }
@@ -282,12 +289,15 @@ hr {
     text-align: center;
     color: #ffffff;
     text-align: center;
-
-
 }
 
 section {
     padding-top: 75px;
-    /* padding-bottom: 20px; */
-
+}
+.objList{
+    background-color: #365067;
+    /* position: relative;
+    display: block; */
+    /* padding: 0.75rem 1.25rem; */
+ 
 }
