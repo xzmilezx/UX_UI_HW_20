@@ -280,7 +280,7 @@ hr {
     text-align: center;
     color: #FFCBF0;
     text-align: center;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 .sectionTitle {
