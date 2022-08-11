@@ -166,11 +166,11 @@ h1 {
     }
 
 p{
-    font-family: 'Yusei Magic';
+    font-family: 'Quicksand';
     font-weight: 400;
     font-size: 18px;
     text-align: center;
-    color: #FFCBF0;  
+    color: #ffffff;  
 }
 .jumboImage {
     /* background-color:#365067;
@@ -195,7 +195,7 @@ p{
         justify-content: center;
     }
     hr{
-        background-color: #FFFFFF;
+        background-color: #ffffff4a;
     }
 
     #heroMobile{
@@ -252,3 +252,12 @@ margin-right: 20px;
 color: #0f010b;
 }
 
+.sectionHead{
+    font-family: 'Yusei Magic';
+    text-decoration: underline;
+    font-size: 30px;
+    text-align: center;
+    color: #FFCBF0;   
+    text-align: center;
+    color: #FFCBF0;
+}
